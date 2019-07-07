@@ -1,3 +1,8 @@
 # python-pi -example
 # This is an example added later
-print ("Hello world")
+def main(msg):
+# adding another
+    print(msg)
+
+#print ("Hello world")
+main("Hello People !")
